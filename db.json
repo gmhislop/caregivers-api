@@ -1,5 +1,5 @@
 {
-    "Caregivers": [
+    "caregivers": [
         {
             "id": "lsteen",
             "jobTitleName": "Verzorgende IG",
@@ -19,7 +19,7 @@
             "jobTitleName": "Helpende",
             "firstName": "Kees",
             "lastName": "Water",
-            "preferredFullName": "Kees Water",
+            "preferredFullName": "Kees Water"
         },
         {
             "id": "jaarde",
@@ -38,9 +38,9 @@
         {
             "id": "lpapierr",
             "jobTitleName": "Verzorgende IG",
-            "firstName": "Loes",
+            "firstName": "Laura",
             "lastName": "Papier",
-            "preferredFullName": "Loes Papier"
+            "preferredFullName": "Laura Papier"
         },
         {
             "id": "pschaar",
@@ -79,5 +79,3 @@
         }
     ]
 }
-
-    

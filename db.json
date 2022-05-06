@@ -1,6 +1,5 @@
 {
     "caregivers": [
-        {
             "id": "lsteen",
             "jobTitleName": "Verzorgende IG",
             "firstName": "Lisa",
@@ -77,5 +76,5 @@
             "lastName": "Rond",
             "preferredFullName": "Johan Rond"
         }
-    ]
+]
 }

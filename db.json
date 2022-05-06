@@ -1,80 +1,103 @@
 {
     "caregivers": [
-            "id": "lsteen",
+        {
+            "id": "2201",
             "jobTitleName": "Verzorgende IG",
             "firstName": "Lisa",
             "lastName": "Steen",
-            "preferredFullName": "Lisa Steen"
+            "preferredFullName": "Lisa Steen",
+            "email": "Steen@live.nl",
+            "phoneNumber": "0612345668"
         },
         {
-            "id": "evuur",
+            "id": "2202",
             "jobTitleName": "Verpleegkundige",
-            "firstName": "Ericl",
+            "firstName": "Eric",
             "lastName": "Vuur",
-            "preferredFullName": "Eric Vuur"
+            "preferredFullName": "Eric Vuur",
+            "email": "Eric@live.nl",
+            "phoneNumber": "0612345669"
         },
         {
-            "id": "kwater",
+            "id": "2203",
             "jobTitleName": "Helpende",
             "firstName": "Kees",
             "lastName": "Water",
-            "preferredFullName": "Kees Water"
+            "preferredFullName": "Kees Water",
+            "email": "lisa@live.nl",
+            "phoneNumber": "0612345670"
         },
         {
-            "id": "jaarde",
+            "id": "2204",
             "jobTitleName": "Helpende Plus",
             "firstName": "Jan",
             "lastName": "Aarde",
-            "preferredFullName": "Jan Aarde"
+            "preferredFullName": "Jan Aarde",
+            "email": "Aarde@live.nl",
+            "phoneNumber": "0612345671"
         },
         {
-            "userId": "klucht",
+            "userId": "2205",
             "jobTitleName": "Helpende Plus",
             "firstName": "Karin",
             "lastName": "Lucht",
-            "preferredFullName": "Karin Lucht"
+            "preferredFullName": "Karin Lucht",
+            "email": "Lucht@live.nl",
+            "phoneNumber": "0612345672"
         },
         {
-            "id": "lpapierr",
+            "id": "2206",
             "jobTitleName": "Verzorgende IG",
             "firstName": "Laura",
             "lastName": "Papier",
-            "preferredFullName": "Laura Papier"
+            "preferredFullName": "Laura Papier",
+            "email": "Papier@live.nl",
+            "phoneNumber": "0612345673"
         },
         {
-            "id": "pschaar",
+            "id": "2207",
             "jobTitleName": "Helpende",
             "firstName": "Petra",
             "lastName": "Schaar",
-            "preferredFullName": "Petra Schaar"
+            "preferredFullName": "Petra Schaar",
+            "email": "Schaar@live.nl",
+            "phoneNumber": "0612345674"
         },
         {
-            "id": "ceen",
+            "id": "2208",
             "jobTitleName": "Verpleegkundige",
             "firstName": "Coen",
             "lastName": "Een",
-            "preferredFullName": "Coen Een"
+            "preferredFullName": "Coen Een",
+            "email": "Een@live.nl",
+            "phoneNumber": "0612345675"
         },
         {
-            "id": "evatwee",
+            "id": "2209",
             "jobTitleName": "Helpende",
             "firstName": "Eva",
             "lastName": "Twee",
-            "preferredFullName": "Eva Twee"
+            "preferredFullName": "Eva Twee",
+            "email": "Twee@live.nl",
+            "phoneNumber": "0612345676"
         },
         {
-            "id": "jdrie",
+            "id": "2210",
             "jobTitleName": "Helpende",
             "firstName": "Jan",
             "lastName": "Drie",
-            "preferredFullName": "Jan Drie"
+            "preferredFullName": "Jan Drie",
+            "email": "Drie@live.nl",
+            "phoneNumber": "0612345677"
         },
         {
-            "id": "jrond",
+            "id": "2211",
             "jobTitleName": "Helpende",
             "firstName": "Johan",
             "lastName": "Rond",
-            "preferredFullName": "Johan Rond"
+            "preferredFullName": "Johan Rond",
+            "email": "Rond@live.nl",
+            "phoneNumber": "0612345678"
         }
-]
+    ]
 }

@@ -9,6 +9,8 @@
             "preferredFullName": "Lisa Steen",
             "email": "Steen@live.nl",
             "phoneNumber": "0612345668"
+            "completedBookings: 10,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/28.jpg",

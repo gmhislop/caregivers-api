@@ -8,7 +8,7 @@
             "lastName": "Steen",
             "preferredFullName": "Lisa Steen",
             "email": "Steen@live.nl",
-            "phoneNumber": "0612345668"
+            "phoneNumber": "0612345668",
             "completedBookings: 10,
             "openBookings: 4
         },
@@ -20,7 +20,9 @@
             "lastName": "Vuur",
             "preferredFullName": "Eric Vuur",
             "email": "Eric@live.nl",
-            "phoneNumber": "0612345669"
+            "phoneNumber": "0612345669",
+             "completedBookings: 11,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/17.jpg",
@@ -30,7 +32,9 @@
             "lastName": "Water",
             "preferredFullName": "Kees Water",
             "email": "lisa@live.nl",
-            "phoneNumber": "0612345670"
+            "phoneNumber": "0612345670",
+             "completedBookings: 12,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/12.jpg",
@@ -40,7 +44,9 @@
             "lastName": "Aarde",
             "preferredFullName": "Jan Aarde",
             "email": "Aarde@live.nl",
-            "phoneNumber": "0612345671"
+            "phoneNumber": "0612345671",
+             "completedBookings: 10,
+            "openBookings: 3
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/15.jpg",
@@ -50,7 +56,9 @@
             "lastName": "Lucht",
             "preferredFullName": "Karin Lucht",
             "email": "Lucht@live.nl",
-            "phoneNumber": "0612345672"
+            "phoneNumber": "0612345672",
+             "completedBookings: 8,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/29.jpg",
@@ -60,7 +68,9 @@
             "lastName": "Papier",
             "preferredFullName": "Laura Papier",
             "email": "Papier@live.nl",
-            "phoneNumber": "0612345673"
+            "phoneNumber": "0612345673",
+             "completedBookings: 7,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/24.jpg",
@@ -70,7 +80,9 @@
             "lastName": "Schaar",
             "preferredFullName": "Petra Schaar",
             "email": "Schaar@live.nl",
-            "phoneNumber": "0612345674"
+            "phoneNumber": "0612345674",
+             "completedBookings: 5,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/36.jpg",
@@ -80,7 +92,9 @@
             "lastName": "Een",
             "preferredFullName": "Coen Een",
             "email": "Een@live.nl",
-            "phoneNumber": "0612345675"
+            "phoneNumber": "0612345675",
+             "completedBookings: 12,
+            "openBookings: 2
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/40.jpg",
@@ -90,7 +104,9 @@
             "lastName": "Twee",
             "preferredFullName": "Eva Twee",
             "email": "Twee@live.nl",
-            "phoneNumber": "0612345676"
+            "phoneNumber": "0612345676",
+             "completedBookings: 7,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/42.jpg",
@@ -100,7 +116,9 @@
             "lastName": "Drie",
             "preferredFullName": "Jan Drie",
             "email": "Drie@live.nl",
-            "phoneNumber": "0612345677"
+            "phoneNumber": "0612345677",
+             "completedBookings: 5,
+            "openBookings: 4
         },
         {
             "thumbnail":"https://randomuser.me/api/portraits/thumb/women/58.jpg",
@@ -110,7 +128,9 @@
             "lastName": "Rond",
             "preferredFullName": "Johan Rond",
             "email": "Rond@live.nl",
-            "phoneNumber": "0612345678"
+            "phoneNumber": "0612345678",
+             "completedBookings: 14,
+            "openBookings: 2
         }
     ]
 }
